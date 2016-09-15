@@ -1,0 +1,1843 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_total"
+			],
+			[
+				"get_pos",
+				"get_postenpreis"
+			],
+			[
+				"tr_ws",
+				"tr_wsall2011"
+			],
+			[
+				"tr_w",
+				"tr_wsall2011"
+			],
+			[
+				"soue",
+				"sourcepath"
+			],
+			[
+				"sou",
+				"sourcepath"
+			],
+			[
+				"ann",
+				"annuitaet"
+			],
+			[
+				"annui",
+				"annui_and_zuwuchs"
+			],
+			[
+				"plot",
+				"plot_annuitaet"
+			],
+			[
+				"test",
+				"test_completnes"
+			],
+			[
+				"y",
+				"year"
+			],
+			[
+				"e",
+				"erntestatus"
+			],
+			[
+				"geom",
+				"geom_density"
+			],
+			[
+				"vol",
+				"volumen"
+			],
+			[
+				"log",
+				"log_baname"
+			],
+			[
+				"er",
+				"erntekosten"
+			],
+			[
+				"ernte",
+				"erntekosten"
+			],
+			[
+				"ernt",
+				"ernteverfahren"
+			],
+			[
+				"ern",
+				"ernteinfo_final"
+			],
+			[
+				"lbh",
+				"lbh_ndh"
+			],
+			[
+				"rer",
+				"returndf2"
+			],
+			[
+				"ret",
+				"returndf2"
+			],
+			[
+				"mean",
+				"mean_lbh_ndh"
+			],
+			[
+				"tre",
+				"treedatei"
+			],
+			[
+				"plot_",
+				"plot_daten"
+			],
+			[
+				"tr",
+				"treedatei"
+			],
+			[
+				"add",
+				"add_speicherorte"
+			],
+			[
+				"pro",
+				"prozess"
+			],
+			[
+				"tr_vo",
+				"tr_vol_by_baum"
+			],
+			[
+				"sum",
+				"sum_vol_tr"
+			],
+			[
+				"sum_",
+				"sum_vol_tr"
+			],
+			[
+				"comp",
+				"comp_vol_by_baum"
+			],
+			[
+				"tr_b",
+				"tr_vol_by_baum"
+			],
+			[
+				"log_b",
+				"log_by_baum"
+			],
+			[
+				"util",
+				"utilpath"
+			],
+			[
+				"master",
+				"masterDatensatz_nameListe"
+			],
+			[
+				"btn_",
+				"btn_normal"
+			],
+			[
+				"btn",
+				"btn_edit"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"sor",
+				"sort_sel"
+			],
+			[
+				"selec",
+				"select_array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"arr",
+				"array_flip"
+			],
+			[
+				"ntzd_an",
+				"ntzd_anzl"
+			],
+			[
+				"array_in",
+				"array_intersect"
+			],
+			[
+				"Buchen",
+				"Buchen_details_model"
+			],
+			[
+				"buchen",
+				"Buchen_model"
+			],
+			[
+				"buch",
+				"buchungsanfragestatus"
+			],
+			[
+				"copy",
+				"copystat"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ntzp_new",
+				"ntzp_new_i"
+			],
+			[
+				"nt_",
+				"ntzd_new"
+			],
+			[
+				"l",
+				"legend	Tag"
+			],
+			[
+				"ntz",
+				"ntzd_chf"
+			],
+			[
+				"msc",
+				"msch_preis"
+			],
+			[
+				"this",
+				"thismsch"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"ntzp_",
+				"ntzpallergen_bez"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"allerg",
+				"allergene"
+			],
+			[
+				"get_al",
+				"get_allergene_by_time"
+			],
+			[
+				"ntzp",
+				"ntzpallergen_bez"
+			],
+			[
+				"tbl_ntzp",
+				"tbl_ntzpallergen"
+			],
+			[
+				"ntzpall",
+				"ntzpallergen_kat"
+			],
+			[
+				"clrc",
+				"clrcdefs"
+			],
+			[
+				"ndok",
+				"ndok_stat"
+			],
+			[
+				"thi",
+				"thisclrc"
+			],
+			[
+				"nt",
+				"ntzd_id"
+			],
+			[
+				"Buche",
+				"Buchen_model"
+			],
+			[
+				"firma_",
+				"firma_name_offiziell"
+			],
+			[
+				"auf",
+				"auftraege"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"fi",
+				"firma_id"
+			],
+			[
+				"ndok_s",
+				"ndok_subj_id"
+			],
+			[
+				"ntzd_ms",
+				"ntzd_msch_id"
+			],
+			[
+				"rs",
+				"rsl_arbeiter"
+			],
+			[
+				"N",
+				"Ndok_model"
+			],
+			[
+				"f",
+				"for	for …"
+			],
+			[
+				"ntzd_msch",
+				"ntzd_msch_name"
+			],
+			[
+				"tbl_",
+				"tbl_ntzg"
+			],
+			[
+				"s",
+				"selctstring"
+			],
+			[
+				"ndo",
+				"ndok_anmerkungen"
+			],
+			[
+				"nd",
+				"ndok_anmerkungen"
+			],
+			[
+				"user",
+				"user_iseditable"
+			],
+			[
+				"Bu",
+				"Buchen_details_model"
+			],
+			[
+				"rule",
+				"ruleteile"
+			],
+			[
+				"Bez",
+				"Bezeichnungen_model"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"Buch",
+				"Buchen_details_model"
+			],
+			[
+				"buche",
+				"Buchen_model"
+			],
+			[
+				"firma",
+				"firmadata"
+			],
+			[
+				"firma_name",
+				"firma_name_offiziell"
+			],
+			[
+				"firma_n",
+				"firma_name_offiziell"
+			],
+			[
+				"delete",
+				"delete_by_ntzp_id"
+			],
+			[
+				"Nz",
+				"Ntzpallergene_model"
+			],
+			[
+				"prima",
+				"_primary_key"
+			],
+			[
+				"anz",
+				"anzlemptyrows"
+			],
+			[
+				"an",
+				"anzlemptyrows"
+			],
+			[
+				"prdkt",
+				"prdkt_id"
+			],
+			[
+				"my",
+				"mykeys"
+			],
+			[
+				"ressrc",
+				"ressrc_path"
+			],
+			[
+				"ress",
+				"ressrc_name"
+			],
+			[
+				"ex",
+				"excludedarr"
+			],
+			[
+				"count",
+				"countdets"
+			],
+			[
+				"buchungstot",
+				"buchungstotal"
+			],
+			[
+				"delet",
+				"delete_all"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"Masc",
+				"Maschinen_model"
+			],
+			[
+				"bc",
+				"bchng_arr"
+			],
+			[
+				"bchngn",
+				"bchngn_table_string"
+			],
+			[
+				"get_buch",
+				"get_buchungsinfo"
+			],
+			[
+				"auft",
+				"auftraege"
+			],
+			[
+				"ntzd_st",
+				"ntzd_start"
+			],
+			[
+				"ntzd",
+				"ntzd_einn"
+			],
+			[
+				"ntzd_a",
+				"ntzd_ausg"
+			],
+			[
+				"Rechn",
+				"Rechnungen_model"
+			],
+			[
+				"redir",
+				"redirect"
+			],
+			[
+				"sele",
+				"selected_ntzg_idtemp"
+			],
+			[
+				"array_f",
+				"array_filter"
+			],
+			[
+				"REch",
+				"Rechnungen_model"
+			],
+			[
+				"neue",
+				"neuerechnid"
+			],
+			[
+				"Rec",
+				"Rechnungen_model"
+			],
+			[
+				"ntzg_r",
+				"ntzg_rglmsg_id"
+			],
+			[
+				"get_buchun",
+				"get_buchungstotal"
+			],
+			[
+				"Buc",
+				"Buchen_details_model"
+			],
+			[
+				"alle",
+				"allergen_id"
+			],
+			[
+				"pass",
+				"passwort"
+			],
+			[
+				"Pr",
+				"Produkte_model"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "testLife_V34.py",
+			"settings":
+			{
+				"buffer_size": 37477,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"cont",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"his",
+				"Git: Commit history"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"branc",
+				"Git: New Branch"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"git res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"uns",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"unst",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"am",
+				"Git: Amend Commit"
+			],
+			[
+				"amen",
+				"Git: Amend Commit"
+			],
+			[
+				"dif",
+				"Git: Diff All Files"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"omm",
+				"Git: Commit"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"di",
+				"Git: Diff Staged Files"
+			],
+			[
+				"hi",
+				"Git: Commit history"
+			],
+			[
+				"difgf",
+				"Git: Diff Staged Files"
+			],
+			[
+				"DIFF",
+				"Git: Diff All Files"
+			],
+			[
+				"un",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"unsta",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"unstag",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"COMM",
+				"Git: Commit"
+			],
+			[
+				"ADD",
+				"Git: Add..."
+			],
+			[
+				"stas",
+				"Git: Stash Apply"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"d",
+				"Git: Diff Staged"
+			],
+			[
+				"stag",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"om",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"stage",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"merg",
+				"Git: Merge Branch"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"branch",
+				"Git: Merge Branch"
+			],
+			[
+				"duf",
+				"Git: Diff Current File"
+			],
+			[
+				"Snippet: dst",
+				"Snippet: dataset"
+			],
+			[
+				"unstage",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dario/Documents/code/python3/newProject/newProject.sublime-workspace",
+		"/home/dario/Documents/code/r/2016-08-10_Collatz_R/collatz.R",
+		"/home/dario/Desktop/wsl_mcda/sweave/mcda.R",
+		"/home/dario/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+		"/home/dario/Desktop/wsl_mcda/analyze/zuwuchs.R",
+		"/home/dario/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/dario/.config/sublime-text-2/Packages/User/textfield.sublime-snippet",
+		"/home/dario/Desktop/wsl_mcda/.gitignore",
+		"/home/dario/Desktop/wsl_mcda/sweave/.gitignore",
+		"/home/dario/Desktop/wsl_mcda/sweave/documentation_mcda.Rnw",
+		"/home/dario/Desktop/wsl_mcda/tests/annuitaet_test.csv",
+		"/home/dario/Desktop/wsl_mcda/sweave/mkdss.Rnw",
+		"/home/dario/Documents/2016-06_archive_juni2016/mcda/wsl_mcda/tests/tests.R",
+		"/home/dario/Documents/ftp_local/projekte/HausDrusatscha/images/2016-04-19_Laret_Pics/IMG-20160418-WA0000.jpg",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Mysystem.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/mysystem/system.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/Buchen.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Nutzung.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/components/business_calendar_page_head.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/js/pivot.de.js",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/_layout_business.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/components/admin_admin_dropdown.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/buchung/buchung_edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Buchen_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/rechnungen/rechnungen_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/reports/rechnungen.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/nutzung/buchung_edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/business/pivot2.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/Calendar.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Buchen_details_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/helpers/mein_helper.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/Meinedaten.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/business/pivot.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/components/calendar_page_head.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/components/sanscal_page_head.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/myjs/myScript.js",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/components/page_tail.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/mysystem/ressrc_edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Nutzgprodukte_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Ndok_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Ntzpallergene_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/user/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/nutzung/buchen_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/buchung/buchen_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/dashboard.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/maschinen/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/allergene/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/produkte/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/produkte/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/bezeichnungen/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/rechnungen/unverrechnete_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Vermietung.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Dashboard.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Bezeichnungen.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/maschinen/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/bezeichnungen/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Maschinen.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Maschinen_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Bezeichnungen_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/libraries/MY_Form_validation.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/config/config.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/_layout_main.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/firma/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/maschinen/index.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/benutzerdaten/myarbeitsforce.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/user/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/User.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/produkte/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/maschinen/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/rechnungen/rechnungen_edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/produkte/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/allergene/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/helpers/cms_helper.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/nutzung/buchungkopieren.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/libraries/Dauth.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Rechnungen.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/_layout_sanscal.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/Produkte.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/core/MY_Model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Ressources_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Produkte_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Produktallergene_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Produkte.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Firmen.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Business.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/admin/Allergene.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/lobby/lobby_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/system/database/DB_driver.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/firma/edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Firmen_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/_layout_main_standard.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/Rechnungen_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/core/MY_Controller.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/reports/buchungsbeleg_layout.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/reports/buchungsbeleg_layout_backup_2016-02-08.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/reports/rechnungen_layout_backup.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/_layout_sanscal_standard.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/benutzerdaten/myarbeiter_edit.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/system/core/Common.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/ToDo.txt",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/vermietung/lobby_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/components/adminscalendar_page_head.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/migrations/024_Add_Prdkt_aktiv_etc.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/calendar/calendar.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/components/benutzer_benutzer_dropdown.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/Maschinen.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/migrations/023_Add_Felder_fuer_raumplan.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/config/migration.php",
+		"/home/dario/Desktop/Nutzung.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/migrations/023_Add_Felder_fuer_preisberechnung.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/controllers/Home.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/models/User_model.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/benutzerdaten/user_dash.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/_layout_big.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/benutzerdaten/mydata.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/migrations/022_Add_is_buchbar_etc.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/stuff/rwd_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/reports/rechnungen_layout_backup_2016-02-08.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/reports/rechnungen_layout.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/system/libraries/Form_validation.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/system/helpers/form_helper.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/language/german/form_validation_lang.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/migrations/021_Create_ntzd_ok_ttbl_und_add_persits_arbeiter.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/admin/allarbeit/arbeit_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/migrations/021_Create_ntzd_ok_ttbl_und_add_persits_arbeiter_u",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/myarbeit/arbeiter_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/myarbeit/arbeit_view.php",
+		"/home/dario/Documents/ftp_local/projekte/CPIoffice/application/views/benutzerdaten/myfirmadata.php"
+	],
+	"find":
+	{
+		"height": 65.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"-get_by_new,-*.txt",
+			"-get_by_new",
+			"",
+			"-022_Add_id_buchbar_etc.php, -019_Add_rchng_firma_id.php",
+			"-022_Add_id_buchbar_etc.php",
+			"",
+			"allergen",
+			"",
+			"/home/dario/Desktop/Link to html/CO",
+			"/home/dario/Desktop/Link to html/CO,-*.map",
+			"/home/dario/Desktop/Link to html/CO"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print_postenliste",
+			"keylist",
+			"fill",
+			"returndata",
+			"zuwuchs",
+			"prim",
+			"Kennz",
+			"year",
+			" +",
+			"vol_1000_baumart",
+			"returndf",
+			"erntestuff",
+			"get_erntevolumen_pro_baum_und_jahr",
+			"#",
+			"# test",
+			"#test",
+			"inlog",
+			"notinlog",
+			"comp_vol_by_baum",
+			"tr_vol_by_baum",
+			"tr",
+			"outtype",
+			"erloes",
+			"kosten",
+			"Ansicht_Garten_Sommer_a",
+			"Ansicht_Garten_Winter",
+			"ö",
+			"ü",
+			"ä",
+			"                  ",
+			"                 ",
+			"Schlafzimmer1_UG",
+			"Schlafzimmer_1_UG",
+			"Schlafzimmer",
+			"Ansicht_Winter_Strasse",
+			"img4",
+			"img3",
+			"img2",
+			"img1",
+			"img5",
+			"img4",
+			"img3",
+			"img2",
+			"img1",
+			"img5",
+			"img4",
+			"img3",
+			"img1",
+			"img4",
+			"img2",
+			"img5",
+			"img3",
+			"img5",
+			"get_postentotal",
+			"config",
+			"get_buchungstotal",
+			"deac",
+			"fr",
+			"Nombre",
+			"Somme",
+			"Summe",
+			"+                 ",
+			"arrayOfObjects",
+			"();\n",
+			"mein",
+			"new_ntzd_id",
+			"(document).ready",
+			"document.ready",
+			"?>></",
+			"Next",
+			"Previous",
+			"Bezeichnungen",
+			"bezeichnung",
+			"bezn",
+			"Bezeichnungen_model",
+			"anfrage",
+			"ntzg_id",
+			"$id",
+			"+",
+			"delete",
+			"ntzp_ntzg_id",
+			"ntzg_additionalrowsaftercopy",
+			"todler",
+			"ntzg_additionalrowsaftercopy",
+			"delete",
+			"copystat",
+			"999",
+			"copythis",
+			"delimi",
+			"deliminator",
+			"delete",
+			"detail",
+			"dets",
+			"dele",
+			"delete",
+			"mkecopy",
+			"mke_copy",
+			"ntzp_new",
+			"ntzd_new",
+			"ntzp_arr",
+			"details",
+			"ntzg_data",
+			"ntzd_arr",
+			"ntzg_arr",
+			"orgdat",
+			"<th>Löschen",
+			"Alle Anfragen bestätigt",
+			"btn-primary",
+			"delete",
+			"redir",
+			"delete",
+			"iseditable",
+			"isdeletable",
+			"iseditable",
+			"Alte Rechnungen ansehen info",
+			"Alle Rechnungen",
+			"Neue allergen erstellen",
+			"Neue bezeichnung erstellen",
+			"pauschal",
+			".error",
+			"set_error_delimiters",
+			"var_dump(",
+			"var_dum(",
+			"get_by(",
+			"(int)",
+			"get_by",
+			"get_by(",
+			"get_ressrc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Keine offenen Anfragen",
+			"pro Stück",
+			"Vermietung",
+			"ntzd_mtgl_firma_id",
+			"ntzg_firma_name",
+			"arrs_zu_pivotlinebar_data",
+			"objs_zu_pivotpie_data",
+			"mkep_arrs_zu_pivotlinebar_data",
+			"mkep_objs_zu_pivotpie_data",
+			"mkep_objs_zu_pivotdata",
+			"$anzlemptyrows",
+			"Rechnung PDF ansehen",
+			"iseditable",
+			"Welche der",
+			"prdkt_public",
+			"",
+			"prdkt",
+			"produkt",
+			"allergen",
+			"http://pedolin.ch/Laret/",
+			"pedolin.ch",
+			"Laret/",
+			"userdata('mtgl_id')",
+			"userdata['mtgl_id']",
+			"ntzd_kchn_id",
+			"tbl_ntzd",
+			"ntzg_ende",
+			"ntzg_start"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "testLife_V34.py",
+					"settings":
+					{
+						"buffer_size": 37477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								37477
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"replace":
+	{
+		"height": 139.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"buc",
+				"application/models/Buchen_model.php"
+			],
+			[
+				"dash",
+				"application/views/admin/dashboard.php"
+			],
+			[
+				"nutz",
+				"application/views/admin/nutzung/buchen_view.php"
+			],
+			[
+				"buchun",
+				"application/views/admin/nutzung/buchung_edit.php"
+			],
+			[
+				"buchu",
+				"application/views/buchung/buchung_edit.php"
+			],
+			[
+				"buch",
+				"application/models/Buchen_model.php"
+			],
+			[
+				"rechnu",
+				"application/views/admin/rechnungen/rechnungen_view.php"
+			],
+			[
+				"rechnun",
+				"application/views/admin/reports/rechnungen.php"
+			],
+			[
+				"bu",
+				"application/models/Buchen_model.php"
+			],
+			[
+				"buche",
+				"application/models/Buchen_details_model.php"
+			],
+			[
+				"mein",
+				"application/controllers/Meinedaten.php"
+			],
+			[
+				"cale",
+				"application/controllers/Calendar.php"
+			],
+			[
+				"page",
+				"application/views/components/page_tail.php"
+			],
+			[
+				"calendar",
+				"application/views/components/calendar_page_head.php"
+			],
+			[
+				"san",
+				"application/views/components/sanscal_page_head.php"
+			],
+			[
+				"pivo",
+				"application/views/admin/business/pivot.php"
+			],
+			[
+				"piv",
+				"application/views/admin/business/pivot.php"
+			],
+			[
+				"sans",
+				"application/views/components/sanscal_page_head.php"
+			],
+			[
+				"busi",
+				"application/views/admin/business/business_dash.php"
+			],
+			[
+				"mys",
+				"application/controllers/admin/Mysystem.php"
+			],
+			[
+				"res",
+				"application/views/admin/mysystem/ressrc_edit.php"
+			],
+			[
+				"adm",
+				"application/views/admin/components/admin_admin_dropdown.php"
+			],
+			[
+				"bus",
+				"application/controllers/admin/Business.php"
+			],
+			[
+				"nt",
+				"application/models/Ntzpallergene_model.php"
+			],
+			[
+				"ndo",
+				"application/models/Ndok_model.php"
+			],
+			[
+				"nu",
+				"application/models/Nutzgprodukte_model.php"
+			],
+			[
+				"unve",
+				"application/views/admin/rechnungen/unverrechnete_view.php"
+			],
+			[
+				"rechn",
+				"application/views/admin/rechnungen/rechnungen_view.php"
+			],
+			[
+				"verm",
+				"application/controllers/admin/Vermietung.php"
+			],
+			[
+				"bez",
+				"application/views/admin/bezeichnungen/index.php"
+			],
+			[
+				"produk",
+				"application/views/admin/produkte/index.php"
+			],
+			[
+				"prod",
+				"application/views/produkte/index.php"
+			],
+			[
+				"allerg",
+				"application/views/admin/allergene/index.php"
+			],
+			[
+				"masc",
+				"application/views/admin/maschinen/index.php"
+			],
+			[
+				"das",
+				"application/controllers/admin/Dashboard.php"
+			],
+			[
+				"buchen",
+				"application/views/admin/nutzung/buchen_view.php"
+			],
+			[
+				"head",
+				"application/views/components/sanscal_page_head.php"
+			],
+			[
+				"buchung",
+				"application/views/admin/nutzung/buchung_edit.php"
+			],
+			[
+				"mas",
+				"application/models/Maschinen_model.php"
+			],
+			[
+				"masch",
+				"application/controllers/admin/Maschinen.php"
+			],
+			[
+				"m",
+				"application/libraries/MY_Form_validation.php"
+			],
+			[
+				"be",
+				"application/models/Bezeichnungen_model.php"
+			],
+			[
+				"sansc",
+				"application/views/components/sanscal_page_head.php"
+			],
+			[
+				"con",
+				"application/config/config.php"
+			],
+			[
+				"nutzprodukte_model",
+				"application/models/Nutzgprodukte_model.php"
+			],
+			[
+				"lay",
+				"application/views/_layout_main.php"
+			],
+			[
+				"buchen_m",
+				"application/models/Buchen_model.php"
+			],
+			[
+				"ntzp",
+				"application/models/Ntzpallergene_model.php"
+			],
+			[
+				"firma",
+				"application/views/admin/firma/index.php"
+			],
+			[
+				"use",
+				"application/controllers/admin/User.php"
+			],
+			[
+				"sa",
+				"application/views/components/sanscal_page_head.php"
+			],
+			[
+				"b",
+				"application/controllers/Buchen.php"
+			],
+			[
+				"produkte",
+				"application/controllers/Produkte.php"
+			],
+			[
+				"lob",
+				"application/views/lobby/lobby_view.php"
+			],
+			[
+				"buh",
+				"application/models/Buchen_model.php"
+			],
+			[
+				"adminbuc",
+				"application/views/admin/nutzung/buchen_view.php"
+			],
+			[
+				"bezei",
+				"application/controllers/admin/Bezeichnungen.php"
+			],
+			[
+				"my_m",
+				"application/core/MY_Model.php"
+			],
+			[
+				"my_",
+				"application/core/MY_Model.php"
+			],
+			[
+				"pro",
+				"application/models/Produkte_model.php"
+			],
+			[
+				"cms",
+				"application/helpers/cms_helper.php"
+			],
+			[
+				"ress",
+				"application/views/admin/mysystem/ressrc_edit.php"
+			],
+			[
+				"user/",
+				"application/views/admin/user/edit.php"
+			],
+			[
+				"firm",
+				"application/models/Firmen_model.php"
+			],
+			[
+				"fi",
+				"application/controllers/admin/Firmen.php"
+			],
+			[
+				"fim",
+				"application/models/Firmen_model.php"
+			],
+			[
+				"nuz",
+				"application/controllers/admin/Nutzung.php"
+			],
+			[
+				"re",
+				"application/controllers/admin/Rechnungen.php"
+			],
+			[
+				"cm",
+				"application/helpers/cms_helper.php"
+			],
+			[
+				"user/i",
+				"application/views/admin/user/index.php"
+			],
+			[
+				"nut",
+				"application/controllers/admin/Nutzung.php"
+			],
+			[
+				"comm",
+				"system/core/Common.php"
+			],
+			[
+				"to",
+				"ToDo.txt"
+			],
+			[
+				"vermietun",
+				"application/views/admin/vermietung/lobby_view.php"
+			],
+			[
+				"ver",
+				"application/controllers/admin/Vermietung.php"
+			],
+			[
+				"admin",
+				"application/views/admin/components/adminscalendar_page_head.php"
+			],
+			[
+				"calen",
+				"application/views/components/calendar_page_head.php"
+			],
+			[
+				"vermietu",
+				"application/views/admin/vermietung/lobby_view.php"
+			],
+			[
+				"lobb",
+				"application/views/lobby/lobby_view.php"
+			],
+			[
+				"rec",
+				"application/views/admin/rechnungen/rechnungen_edit.php"
+			],
+			[
+				"produ",
+				"application/views/admin/produkte/edit.php"
+			],
+			[
+				"benutz",
+				"application/views/components/benutzer_benutzer_dropdown.php"
+			],
+			[
+				"usered",
+				"application/views/admin/user/edit.php"
+			],
+			[
+				"maschine",
+				"application/views/admin/maschinen/edit.php"
+			],
+			[
+				"beze",
+				"application/models/Bezeichnungen_model.php"
+			],
+			[
+				"my",
+				"application/libraries/MY_Form_validation.php"
+			],
+			[
+				"ma",
+				"application/controllers/admin/Maschinen.php"
+			],
+			[
+				"bezec",
+				"application/views/admin/bezeichnungen/edit.php"
+			],
+			[
+				"bezeic",
+				"application/models/Bezeichnungen_model.php"
+			],
+			[
+				"mi",
+				"application/config/migration.php"
+			],
+			[
+				"nutzu",
+				"application/views/admin/nutzung/buchung_edit.php"
+			],
+			[
+				"tail",
+				"application/views/components/page_tail.php"
+			],
+			[
+				"ntz",
+				"application/models/Ntzpallergene_model.php"
+			],
+			[
+				"cal",
+				"application/controllers/Calendar.php"
+			],
+			[
+				"nutzun",
+				"application/views/admin/nutzung/buchen_view.php"
+			],
+			[
+				"home",
+				"application/controllers/Home.php"
+			],
+			[
+				"nd",
+				"application/models/Ndok_model.php"
+			],
+			[
+				"hom",
+				"application/controllers/Home.php"
+			],
+			[
+				"men",
+				"application/controllers/Meinedaten.php"
+			],
+			[
+				"mei",
+				"application/controllers/Meinedaten.php"
+			],
+			[
+				"benu",
+				"application/views/components/benutzer_benutzer_dropdown.php"
+			],
+			[
+				"ho",
+				"application/controllers/Home.php"
+			],
+			[
+				"benut",
+				"application/views/components/benutzer_benutzer_dropdown.php"
+			],
+			[
+				"user",
+				"application/controllers/admin/User.php"
+			],
+			[
+				"maschinen",
+				"application/views/maschinen/edit.php"
+			],
+			[
+				"mac",
+				"application/models/Maschinen_model.php"
+			],
+			[
+				"layo",
+				"application/views/_layout_sanscal.php"
+			],
+			[
+				"produke",
+				"application/views/admin/produkte/edit.php"
+			],
+			[
+				"uer",
+				"application/models/User_model.php"
+			],
+			[
+				"mig",
+				"application/config/migration.php"
+			],
+			[
+				"migr",
+				"application/config/migration.php"
+			],
+			[
+				"my_f",
+				"application/libraries/MY_Form_validation.php"
+			],
+			[
+				"form",
+				"system/libraries/Form_validation.php"
+			],
+			[
+				"fo",
+				"system/libraries/Form_validation.php"
+			],
+			[
+				"conf",
+				"application/config/config.php"
+			],
+			[
+				"det",
+				"application/models/Buchen_details_model.php"
+			],
+			[
+				"rech",
+				"application/views/admin/rechnungen/rechnungen_edit.php"
+			],
+			[
+				"us",
+				"application/controllers/admin/User.php"
+			],
+			[
+				"fir",
+				"application/models/Firmen_model.php"
+			],
+			[
+				"mya",
+				"application/views/myarbeit/arbeiter_view.php"
+			],
+			[
+				"dauer",
+				"application/views/admin/nutzung/dauerbuchung.php"
+			],
+			[
+				"useredi",
+				"application/views/admin/user/edit.php"
+			],
+			[
+				"ed",
+				"application/views/admin/user/edit.php"
+			],
+			[
+				"daue",
+				"application/views/admin/nutzung/dauerbuchung.php"
+			],
+			[
+				"datu",
+				"application/helpers/datums_helper.php"
+			],
+			[
+				"firme",
+				"application/models/Firmen_model.php"
+			],
+			[
+				"core",
+				"application/views/components/core_navbar.php"
+			],
+			[
+				"rechnungen",
+				"application/views/admin/rechnungen/rechnungen_view.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true
+}
