@@ -531,9 +531,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 180.0,
+		"height": 264.0,
 		"selected_items":
 		[
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"i",
+				"Git: Init"
+			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -569,14 +581,6 @@
 			[
 				"bra",
 				"Git: Change Branch"
-			],
-			[
-				"comm",
-				"Git: Commit"
-			],
-			[
-				"add",
-				"Git: Add..."
 			],
 			[
 				"stat",
